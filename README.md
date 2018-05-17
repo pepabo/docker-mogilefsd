@@ -1,0 +1,2 @@
+docker-mogilefsd [![Travis](https://img.shields.io/travis/pepabo/docker-mogilefsd.svg?style=flat-square)](https://travis-ci.org/pepabo/docker-mogilefsd)[![Docker Automated build](https://img.shields.io/docker/automated/pepabo/mogilefsd.svg?style=flat-square)](https://hub.docker.com/r/pepabo/mogilefsd/~/dockerfile/)[![Docker Build Status](https://img.shields.io/docker/build/pepabo/mogilefsd.svg?style=flat-square)](https://hub.docker.com/r/pepabo/mogilefsd/builds/)
+===
